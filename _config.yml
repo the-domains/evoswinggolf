@@ -1,0 +1,28 @@
+name: EvoSwingGolf
+favicon: null
+layout_spectrum: 0.36556946649216115
+typography_spectrum: 0.8982235239818692
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.06799870217218995
+  lightness: 0.6895337728783488
+  saturation: 0.7900377712212503
+  rhythmicContrast: 0.29722061613574624
+purpose: []
